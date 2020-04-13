@@ -1,0 +1,5 @@
+Non-Promitive Types:
+- String
+- Array
+- Enum
+- Class
