@@ -4,16 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpBeginner
+namespace CSharpIntermediate
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Startup project is CSharpBeginner");            
-
-            // 17. Something.
-
+            Console.WriteLine("Startup project is CSharpIntermediate");            
         }
     }
 }
